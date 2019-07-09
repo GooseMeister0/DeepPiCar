@@ -1,0 +1,62 @@
+<annotation>
+	<folder>PiCar Pics</folder>
+	<filename>DSCN2305.JPG</filename>
+	<path>C:\Users\dalli\OneDrive\Desktop\PiCar Pics\DSCN2305.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5152</width>
+		<height>3864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrians</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>268</ymin>
+			<xmax>1386</xmax>
+			<ymax>1484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1686</xmin>
+			<ymin>700</ymin>
+			<xmax>2290</xmax>
+			<ymax>1616</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yield Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2718</xmin>
+			<ymin>992</ymin>
+			<xmax>3278</xmax>
+			<ymax>1584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3806</xmin>
+			<ymin>1024</ymin>
+			<xmax>4270</xmax>
+			<ymax>1708</ymax>
+		</bndbox>
+	</object>
+</annotation>

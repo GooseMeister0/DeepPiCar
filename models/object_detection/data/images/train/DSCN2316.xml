@@ -1,0 +1,134 @@
+<annotation>
+	<folder>PiCar Pics</folder>
+	<filename>DSCN2316.JPG</filename>
+	<path>C:\Users\dalli\OneDrive\Desktop\PiCar Pics\DSCN2316.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5152</width>
+		<height>3864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pedestrians</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>1740</ymin>
+			<xmax>1014</xmax>
+			<ymax>2172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1226</xmin>
+			<ymin>1824</ymin>
+			<xmax>1578</xmax>
+			<ymax>2212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1630</xmin>
+			<ymin>1876</ymin>
+			<xmax>1814</xmax>
+			<ymax>2236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yield Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1962</xmin>
+			<ymin>1936</ymin>
+			<xmax>2230</xmax>
+			<ymax>2180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rail Road Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2478</xmin>
+			<ymin>1848</ymin>
+			<xmax>2742</xmax>
+			<ymax>2188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2814</xmin>
+			<ymin>1948</ymin>
+			<xmax>2978</xmax>
+			<ymax>2196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Do Not Enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3426</xmin>
+			<ymin>1792</ymin>
+			<xmax>3774</xmax>
+			<ymax>2248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3898</xmin>
+			<ymin>1916</ymin>
+			<xmax>4178</xmax>
+			<ymax>2200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4734</xmin>
+			<ymin>1876</ymin>
+			<xmax>4986</xmax>
+			<ymax>2312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2566</xmin>
+			<ymin>2212</ymin>
+			<xmax>2886</xmax>
+			<ymax>2736</ymax>
+		</bndbox>
+	</object>
+</annotation>

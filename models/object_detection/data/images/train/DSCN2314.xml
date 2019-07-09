@@ -1,0 +1,74 @@
+<annotation>
+	<folder>PiCar Pics</folder>
+	<filename>DSCN2314.JPG</filename>
+	<path>C:\Users\dalli\OneDrive\Desktop\PiCar Pics\DSCN2314.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5152</width>
+		<height>3864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1306</xmin>
+			<ymin>1656</ymin>
+			<xmax>1550</xmax>
+			<ymax>1964</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Do Not Enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1782</xmin>
+			<ymin>1632</ymin>
+			<xmax>2150</xmax>
+			<ymax>2000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2242</xmin>
+			<ymin>1524</ymin>
+			<xmax>2758</xmax>
+			<ymax>2048</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3322</xmin>
+			<ymin>1460</ymin>
+			<xmax>3878</xmax>
+			<ymax>2176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4126</xmin>
+			<ymin>1580</ymin>
+			<xmax>4454</xmax>
+			<ymax>2200</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,86 @@
+<annotation>
+	<folder>PiCar Pics</folder>
+	<filename>DSCN2300.JPG</filename>
+	<path>C:\Users\dalli\OneDrive\Desktop\PiCar Pics\DSCN2300.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5152</width>
+		<height>3864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1106</xmin>
+			<ymin>1368</ymin>
+			<xmax>1490</xmax>
+			<ymax>2004</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1606</xmin>
+			<ymin>1376</ymin>
+			<xmax>2154</xmax>
+			<ymax>1868</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Do Not Enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2274</xmin>
+			<ymin>1380</ymin>
+			<xmax>2726</xmax>
+			<ymax>1864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Rail Road Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2938</xmin>
+			<ymin>1348</ymin>
+			<xmax>3418</xmax>
+			<ymax>1864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Parking Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3814</xmin>
+			<ymin>1276</ymin>
+			<xmax>4518</xmax>
+			<ymax>1960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2406</xmin>
+			<ymin>1884</ymin>
+			<xmax>2850</xmax>
+			<ymax>2604</ymax>
+		</bndbox>
+	</object>
+</annotation>
