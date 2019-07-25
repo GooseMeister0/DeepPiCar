@@ -4,10 +4,11 @@
 3 Limit 25
 4 Limit 40
 5 Stop
-6 Parking Sign
-7 Rail Road Sign
-8 Yield Sign
+6 Parking
+7 Rail Road
+8 Yield
 9 Do Not Enter
 10 Speed Limit 35
 11 Speed Limit 55
-12 Pedestrians
+12 Crosswalk
+13 Traffic Light
